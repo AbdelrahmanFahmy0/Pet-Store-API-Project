@@ -12,6 +12,7 @@ It serves as a practical exercise in API testing, focusing on creating, retrievi
 - **Pet Management**: Add, update, retrieve, and delete pet details.
 - **Store Operations**: Place orders, retrieve orders, and manage store data.
 - **User Management**: Create, update, retrieve, and delete user accounts.
+- **Dynamic Variable Generation**: Generate dynamic variables in pre-request scripts to use across requests.
 
 ## 🛠️ Installation
 
