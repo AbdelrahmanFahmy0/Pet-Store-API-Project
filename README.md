@@ -1,4 +1,4 @@
-# 🐾 Petstore API Testing Project
+# 🐾 Pet Store API Testing Project
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWqimV0fZPeeWriH1tF1RSGkv_ro3iSmnPZQ&s" alt="Petstore Logo" width="500"/>
 
@@ -22,20 +22,23 @@ Follow these steps to set up the project locally:
 
 2. **Install Newman and HTML Extra Reporter**  
    Open your terminal and run:
-
    
-bash
+   ```bash
    npm install -g newman
    npm install -g newman-reporter-htmlextra
-
+   ```
 3. **Clone this repository:**
-bash
+
+   ```bash
    git clone https://github.com/AbdelrahmanFahmy0/Pet-Store-API-Project.git
+   ```
    
 4. **Navigate to the project directory:**
-bash
-   cd Pet-Store-API-Project
    
+   ```bash
+   cd Pet-Store-API-Project
+   ```
+
 5. **Import the Postman collection and environment into Postman:**
    - Open Postman.
    - Import the provided `Pet Store.postman_collection.json` and `Testing-Environment.postman_environment.json` files.
